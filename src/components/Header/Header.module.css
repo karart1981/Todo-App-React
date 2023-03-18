@@ -1,0 +1,12 @@
+.root{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	margin-top:10px;
+	height:80px;
+	font-size: 24px;
+	color:#fff;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	background-color: #0D6EFD;
+}
