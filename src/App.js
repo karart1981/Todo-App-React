@@ -1,8 +1,8 @@
 import React, {useState} from 'react';
-import './App.css';
-import AddTodo from './components/AddTodo/AddTodo';
-import Header from './components/Header/Header';
-import TodoList from './components/TodoList/TodoList';
+import './css/App.css';
+import AddTodo from './components/AddTodo';
+import Header from './components/Header';
+import TodoList from './components/TodoList';
 import { Container } from 'react-bootstrap';
 
 function App() {

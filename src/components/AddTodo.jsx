@@ -1,7 +1,7 @@
 import React,{useState} from 'react';
 import { v4 as uuidv4 } from 'uuid';
 import {Row,Col,Button,FormControl} from 'react-bootstrap';
-import classes from './AddTodo.module.css';
+import classes from '../css/AddTodo.module.css';
 import { FaPlusCircle } from 'react-icons/fa';
 
 const AddTodo = ({todo, setTodo}) => {
